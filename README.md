@@ -3,7 +3,7 @@ This is a project for the subject Programming for Data Analytics at Rennes Schoo
 ## Team member
 *   **[Kuan-Yu HOU](https://github.com/DoreenHou)** 
 *   **[María Teresa Hidalgo](https://github.com/Teresiux14)**   
-*   **[Annie HUNG]()**
+*   **[Annie HUNG](https://github.com/RUEI-CHIEH)**
 *   **[Yi-Hsin TUNG](https://github.com/evatung0719)**
 *   **[Xian Harding Anglés](https://github.com/r41ss4)**
 ## The Dataset
