@@ -13,6 +13,7 @@ The analysis will employ descriptive analytics, exploratory data analysis (EDA),
 *   **[Xian Harding Anglés](https://github.com/r41ss4)**    
 
 ## The Dataset
+The datasets have been obtained through **[Kaggle](https://www.kaggle.com/)** platform and selected to provide relevants insights regarding flights pricing. 
 *   **data_f1:** It includes a wide range of features and variables, such as flight routes, departure and arrival cities, airline carriers, departure and arrival times, ticket class, and more. 
 *   **data_f2:** Dataset contains information about flight booking options from the website Easemytrip for flight travel between India's top 6 metro cities. There are 300261 datapoints and 11 features in the cleaned dataset.
 
