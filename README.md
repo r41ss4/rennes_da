@@ -18,14 +18,40 @@ The datasets have been obtained through **[Kaggle](https://www.kaggle.com/)** pl
 *   **data_f2:** Dataset contains information about flight booking options from the website Easemytrip for flight travel between India's top 6 metro cities. There are 300261 datapoints and 11 features in the cleaned dataset.
 
 ## Folders and organization 
-*   **Main forder:** Raw_dataser1, Raw_dataser2, Cleaning_df1.ipynb, Cleaning_df2.ipynb     
-    *   **Analysis folder:** Clean_dataset1, Clean_dataset2, Analysis_full.ipynb
+**[rennes_da/](https://github.com/r41ss4/rennes_da/)**
+│
+├── **[data/](https://github.com/r41ss4/rennes_da/tree/main/data)**
+│   ├── raw/
+│   │   ├── data_f1.csv
+│   │   └── data_f2.csv
+│   ├── cleaned/
+│   │   ├── clean_dataf1.csv
+│   │   └── clean_dataf2.csv
+│   └── merged/
+│       └── merged_df.csv
+│
+├── **[notebooks/]**(https://github.com/r41ss4/rennes_da/tree/main/notebooks_analysis)
+│   ├── Descriptive_Analytics.ipynb
+│   ├── cleaning.ipynb
+│   ├── diagnosis.ipynb
+│   ├── merging_data.ipynb
+│   ├── merging_data_EDA.ipynb
+│   ├── predictive_analytics.ipynb
+│   └── prescriptive_a.ipynb
+│
+├── .ipynb_checkpoints/
+├── .jupyter/
+├── .virtual_documents/
+├── .DS_Store
+└── README.md
 
 ## Methodology
-**1. Data Cleaning:** We will preprocess the datasets to handle missing values, outliers, and inconsistencies.  
-**2. Exploratory Data Analysis (EDA):** Visualizations and statistical analyses will be conducted to understand the relationships between ticket prices and other variables.    
-**3. Descriptive Analytics:** Summary statistics will be generated to provide insights into the datasets.   
-**4. Predictive Analytics:** We will build predictive models to estimate ticket prices based on the identified factors. 
+**1. Data Cleaning:** We will preprocess the datasets to handle missing values, outliers, and inconsistencies.          
+**2. Exploratory Data Analysis (EDA):** Conduct visualizations and statistical analyses to understand relationships between ticket prices and other variables.      
+**3. Descriptive Analytics:** Generate summary statistics to provide insights into the datasets.     
+**4. Diagnosic Analysis:** Investigate root causes of observed patterns and anomalies in the data.      
+**4. Predictive Analytics:** Build predictive models to estimate ticket prices based on the identified factors.     
+**5. Prescriptive Analytics:** Develop optimization models to recommend pricing strategies that maximize revenue or market share.   
 
 ## Tools and Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
