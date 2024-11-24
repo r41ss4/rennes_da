@@ -18,32 +18,34 @@ The datasets have been obtained through **[Kaggle](https://www.kaggle.com/)** pl
 *   **data_f2:** Dataset contains information about flight booking options from the website Easemytrip for flight travel between India's top 6 metro cities. There are 300261 datapoints and 11 features in the cleaned dataset.
 
 ## Folders and organization 
-**[rennes_da/](https://github.com/r41ss4/rennes_da/)**
-│
-├── **[data/](https://github.com/r41ss4/rennes_da/tree/main/data)**
-│   ├── raw/
-│   │   ├── data_f1.csv
-│   │   └── data_f2.csv
-│   ├── cleaned/
-│   │   ├── clean_dataf1.csv
-│   │   └── clean_dataf2.csv
-│   └── merged/
-│       └── merged_df.csv
-│
-├── **[notebooks/]**(https://github.com/r41ss4/rennes_da/tree/main/notebooks_analysis)
-│   ├── Descriptive_Analytics.ipynb
-│   ├── cleaning.ipynb
-│   ├── diagnosis.ipynb
-│   ├── merging_data.ipynb
-│   ├── merging_data_EDA.ipynb
-│   ├── predictive_analytics.ipynb
-│   └── prescriptive_a.ipynb
-│
-├── .ipynb_checkpoints/
-├── .jupyter/
-├── .virtual_documents/
-├── .DS_Store
-└── README.md
+```
+rennes_da/          
+│           
+├── data/         
+│   ├── raw/                   
+│   │   ├── data_f1.csv               
+│   │   └── data_f2.csv     
+│   ├── cleaned/        
+│   │   ├── clean_dataf1.csv        
+│   │   └── clean_dataf2.csv            
+│   └── merged/         
+│       └── merged_df.csv           
+│                       
+├── notebooks/                    
+│   ├── Descriptive_Analytics.ipynb         
+│   ├── cleaning.ipynb          
+│   ├── diagnosis.ipynb             
+│   ├── merging_data.ipynb          
+│   ├── merging_data_EDA.ipynb          
+│   ├── predictive_analytics.ipynb      
+│   └── prescriptive_a.ipynb                
+│       
+├── .ipynb_checkpoints/     
+├── .jupyter/           
+├── .virtual_documents/         
+├── .DS_Store               
+└── README.md          
+```
 
 ## Methodology
 **1. Data Cleaning:** We will preprocess the datasets to handle missing values, outliers, and inconsistencies.          
