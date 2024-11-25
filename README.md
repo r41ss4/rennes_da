@@ -32,13 +32,13 @@ rennes_da/
 │       └── merged_df.csv           
 │                       
 ├── notebooks/                    
-│   ├── Descriptive_Analytics.ipynb         
+│   ├── descriptive.ipynb         
 │   ├── cleaning.ipynb          
-│   ├── diagnosis.ipynb             
+│   ├── diagnostic.ipynb 
+│   ├── EDA.ipynb          
 │   ├── merging_data.ipynb          
-│   ├── merging_data_EDA.ipynb          
-│   ├── predictive_analytics.ipynb      
-│   └── prescriptive_a.ipynb                
+│   ├── predictive.ipynb      
+│   └── prescriptive.ipynb                
 │       
 ├── .ipynb_checkpoints/     
 ├── .jupyter/           
