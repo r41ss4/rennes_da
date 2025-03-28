@@ -43,7 +43,8 @@ rennes_da/
 ├── .ipynb_checkpoints/     
 ├── .jupyter/           
 ├── .virtual_documents/         
-├── .DS_Store               
+├── .DS_Store     
+├── Insights.md               
 └── README.md          
 ```
 
